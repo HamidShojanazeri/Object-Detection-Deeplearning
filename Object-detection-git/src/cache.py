@@ -9,8 +9,8 @@ YOLO_DIR = os.path.join(SCRIPT_PATH, '..', 'yolo-coco')
 YOLO_WEIGHT='yolov3.weights'
 INDEX_FILE = 'index.txt'
 YOLO_URL='https://pjreddie.com/media/files/yolov3.weights'
-INDEX_URL = 'https://hiring.verkada.com/video/index.txt'
-TS_URL = 'https://hiring.verkada.com/video/{}.ts'
+INDEX_URL = 'PATH to video data repo indexfile '# the file that includes video file names as timestamps
+TS_URL = 'INDEX_URL/{}.ts'
 
 def get_cache_dir():
     if not os.path.exists(CACHE_DIR):
