@@ -1,0 +1,6 @@
+requests==2.21.0
+numpy
+scipy
+Pillow
+matplotlib
+scikit-image
