@@ -1,6 +1,6 @@
 # Documentation
 
-This project includes functions to perfrom the task of detecting a car in a specific parking lot marked in the assigment description. The following are explanations about the structure of the project and its usage.
+This project includes functions to perfrom the task of detecting a car in a specific parking lot. The following are explanations about the structure of the project and its usage.
 
 
 
